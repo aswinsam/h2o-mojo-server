@@ -1,0 +1,41 @@
+# Compiled Java classes
+*.class
+build/
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+
+# Model files (uncomment if you want to ignore model files)
+# *.zip
+# *.mojo
+
+# Java specific
+*.jar
+
+# Project-specific binaries (not committed)
+h2o-genmodel.jar
+Model.zip
